@@ -15,7 +15,7 @@
 | Role | Hostname | IP |
 |---|---|---|
 | VIP | k8s-api.local | 192.168.0.200 |
-| Master 1 | master1 | 192.168.0.11 |
+| Master 1 | master1 | 192.168.0.11 |1
 | Master 2 | master2 | 192.168.0.12 |
 | Master 3 | master3 | 192.168.0.13 |
 | Worker 1 | worker1 | 192.168.0.21 |
